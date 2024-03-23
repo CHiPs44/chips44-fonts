@@ -48,6 +48,6 @@ java -jar ~/bin/BitsNPicas.jar convertbitmap -f fontx2 -ee UTF-16 -o fontx2/chip
 
 ## License
 
-`kbitx` files in the `source` directory are licensed under the [SIL Open Font License](https://openfontlicense.org/), version 1.1 or later.
+`kbitx` files in the `source` directory are licensed under the [SIL Open Font License](https://openfontlicense.org/), version 1.1 or later; see file LICENSE-OFL-1.1.
 
-Other work like converting these `kbitx` files to FONTX2 and headers files are licensed under the MIT license.
+Other work like converting these `kbitx` files to FONTX2 and headers files are licensed under the MIT license, see file LICENSE-MIT.
