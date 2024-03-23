@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kbits PUBLIC "-//Kreative//DTD BitsNPicasBitmap 1.0//EN" "http://www.kreativekorp.com/dtd/kbitx.dtd">
+<kbits>
+<prop id="emAscent" value="5"/>
+<prop id="emDescent" value="1"/>
+<prop id="lineAscent" value="5"/>
+<prop id="lineDescent" value="1"/>
+<prop id="lineGap" value="0"/>
+<prop id="xHeight" value="0"/>
+<prop id="capHeight" value="0"/>
+<name id="1" value="Mono"/>
+<name id="2" value="6x6"/>
+<name id="4" value="Mono 6x6 ASCII"/>
+<name id="5" value="1.0"/>
+<name id="6" value="Mono 6x6"/>
+<name id="9" value="CHiPs44"/>
+<name id="12" value="chips44@gmail.com"/>
+<name id="13" value="SIL Open Font License 1.1"/>
+<name id="14" value="https://spdx.org/licenses/OFL-1.1.html"/>
+<name id="16" value="Mono"/>
+<name id="17" value="6x6"/>
+<name id="18" value="Mono 6x6"/>
+<name id="21" value="Mono"/>
+<name id="22" value="6x6"/>
+<g u="32" x="0" y="0" w="6" d="AAA"/>
+<g u="33" x="1" y="5" w="6" d="BQJGAkI"/>
+<g u="34" x="0" y="5" w="6" d="AwVCAUQBQwLC/wA"/>
+<g u="35" x="0" y="5" w="6" d="BQXFAP8A/wBFxQD/AP8ARcUA/wD/AA"/>
+<g u="36" x="0" y="5" w="6" d="BgUCQQNEAUIEQgFEA0EC"/>
+<g u="37" x="0" y="5" w="6" d="BQVCAkPCAP8DQQPC/wBDAkI"/>
+<g u="38" x="0" y="5" w="6" d="BQUBQgJBAkECQgFCAkECQsIA/w"/>
+<g u="39" x="1" y="5" w="6" d="AwMBQgFEAQ"/>
+<g u="40" x="1" y="5" w="6" d="BQIBQsQA/wD/AkE"/>
+<g u="41" x="1" y="5" w="6" d="BQJBAsT/AP8AQgE"/>
+<g u="42" x="0" y="5" w="6" d="BQXG/wD/AP8AQwFFAUPGAP8A/wD/"/>
+<g u="43" x="0" y="5" w="6" d="BQUCQQRBAkUCQQRBAg"/>
+<g u="44" x="1" y="2" w="6" d="AwMBQgFEAQ"/>
+<g u="45" x="0" y="3" w="6" d="AQVF"/>
+<g u="46" x="1" y="2" w="6" d="AgJE"/>
+<g u="47" x="0" y="5" w="6" d="BQUEQQNBA0EDQQNBBA"/>
+<g u="48" x="0" y="5" w="6" d="BQUBQ8IA/wJDwwD/AEMCwv8AQwE"/>
+<g u="49" x="0" y="5" w="6" d="BQVDBEEEQQRBAkU"/>
+<g u="50" x="0" y="5" w="6" d="BQVEBcL/AEPCAP8ERQ"/>
+<g u="51" x="0" y="5" w="6" d="BQVEBUECQgVFAQ"/>
+<g u="52" x="0" y="5" w="6" d="BQUCQgLF/wD/AP8Cwv8ARQPC/wA"/>
+<g u="53" x="0" y="5" w="6" d="BQVGBEQFRQE"/>
+<g u="54" x="0" y="5" w="6" d="BQUBQ8IA/wREwgD/A8L/AEMB"/>
+<g u="55" x="0" y="5" w="6" d="BQVFBEEDQQNBBEEC"/>
+<g u="56" x="0" y="5" w="6" d="BQUBQ8IA/wPC/wBDwgD/A8L/AEMB"/>
+<g u="57" x="0" y="5" w="6" d="BQUBQ8IA/wPC/wBEBEUB"/>
+<g u="58" x="2" y="5" w="6" d="BQJEAkQ"/>
+<g u="59" x="1" y="5" w="6" d="BgMBQgFCBEIBRAE"/>
+<g u="60" x="0" y="5" w="6" d="BQQCQgFCAUIDQgNC"/>
+<g u="61" x="0" y="4" w="6" d="AwVFBUU"/>
+<g u="62" x="0" y="5" w="6" d="BQRCA0IDQgFCAUIC"/>
+<g u="63" x="0" y="5" w="6" d="BQUBQ8IA/wNBAkIIQQI"/>
+<g u="64" x="0" y="5" w="6" d="BQUBRcMA/wBCAUQFRA"/>
+<g u="65" x="0" y="5" w="6" d="BQUBQ8IA/wNHA0IDQQ"/>
+<g u="66" x="0" y="5" w="6" d="BQVEwgD/A0XCAP8DRQE"/>
+<g u="67" x="0" y="5" w="6" d="BQUBRQRBBEEFRA"/>
+<g u="68" x="0" y="5" w="6" d="BQVEwgD/A0IDQgNFAQ"/>
+<g u="69" x="0" y="5" w="6" d="BQVGBEMCQQRF"/>
+<g u="70" x="0" y="5" w="6" d="BQVGBEMCQQRBBA"/>
+<g u="71" x="0" y="5" w="6" d="BQUBRQRBAkMDwv8ARA"/>
+<g u="72" x="0" y="5" w="6" d="BQVBA0IDRwNCA0E"/>
+<g u="73" x="0" y="5" w="6" d="BQVFAkEEQQRBAkU"/>
+<g u="74" x="0" y="5" w="6" d="BQUCQwNBBMP/AP8CQQJCAg"/>
+<g u="75" x="0" y="5" w="6" d="BQVBA0ICwv8AQwJBAsP/AP8DQQ"/>
+<g u="76" x="0" y="5" w="6" d="BQVBBEEEQQRBBEU"/>
+<g u="77" x="0" y="5" w="6" d="BQVBA0MBQ8MA/wBCA0IDQQ"/>
+<g u="78" x="0" y="5" w="6" d="BQVBA0MCQsMA/wBCAkMDQQ"/>
+<g u="79" x="0" y="5" w="6" d="BQUBQ8IA/wNCA0IDwv8AQwE"/>
+<g u="80" x="0" y="5" w="6" d="BQVEwgD/A0XCAP8EQQQ"/>
+<g u="81" x="0" y="5" w="6" d="BQUBQ8IA/wNCwwD/AEICQQJCwgD/"/>
+<g u="82" x="0" y="5" w="6" d="BQVEwgD/A0XCAP8DQgNB"/>
+<g u="83" x="0" y="5" w="6" d="BQUBRQVDBUUB"/>
+<g u="84" x="0" y="5" w="6" d="BQVFAkEEQQRBBEEC"/>
+<g u="85" x="0" y="5" w="6" d="BQVBA0IDQgNCA8L/AEMB"/>
+<g u="86" x="0" y="5" w="6" d="BQVBA0IDQgPF/wD/AP8DQQI"/>
+<g u="87" x="0" y="5" w="6" d="BQVBA0IDQsMA/wBDAUMDQQ"/>
+<g u="88" x="0" y="5" w="6" d="BQVBA8X/AP8A/wNBA8X/AP8A/wNB"/>
+<g u="89" x="0" y="5" w="6" d="BQVBA8X/AP8A/wNBBEEEQQI"/>
+<g u="90" x="0" y="5" w="6" d="BQVFA0EDQQNBA0U"/>
+<g u="91" x="1" y="5" w="6" d="BQNEAkECQQJD"/>
+<g u="92" x="0" y="5" w="6" d="BQVBBUEFQQVBBUE"/>
+<g u="93" x="1" y="5" w="6" d="BQNDAkECQQJE"/>
+<g u="94" x="0" y="5" w="6" d="AwUCQQPF/wD/AP8DQQ"/>
+<g u="95" x="0" y="1" w="6" d="AQVF"/>
+<g u="96" x="1" y="5" w="5" d="AwNCAUICQg"/>
+<g u="97" x="0" y="4" w="6" d="BAUBRQNCA8L/AEQ"/>
+<g u="98" x="0" y="5" w="6" d="BQVBBETCAP8DQgNFAQ"/>
+<g u="99" x="0" y="4" w="6" d="BAUBRQRBBUQ"/>
+<g u="100" x="0" y="5" w="6" d="BQUEwv8ARQNCA8L/AEQ"/>
+<g u="101" x="0" y="4" w="6" d="BAUBQwFGBUQ"/>
+<g u="102" x="1" y="5" w="6" d="BQQCQsIA/wJDAkEDQQI"/>
+<g u="103" x="0" y="4" w="6" d="BQUBRQPC/wBEBML/AEMB"/>
+<g u="104" x="0" y="5" w="6" d="BQVBBETCAP8DQgNCA0E"/>
+<g u="105" x="0" y="5" w="6" d="BQUCQQdDBEECRQ"/>
+<g u="106" x="0" y="5" w="6" d="BgUEQQhCBEIDwv8AQwE"/>
+<g u="107" x="1" y="5" w="6" d="BQRBA0EDwv8ARALC/wBC"/>
+<g u="108" x="1" y="5" w="6" d="BQNCAkECQQLC/wBD"/>
+<g u="109" x="0" y="4" w="6" d="BAVExQD/AP8AQsMA/wBCxAD/AP8"/>
+<g u="110" x="0" y="4" w="6" d="BAVEwgD/A0IDQgNB"/>
+<g u="111" x="0" y="4" w="6" d="BAUBQ8IA/wNCA8L/AEMB"/>
+<g u="112" x="0" y="4" w="6" d="BQVEwgD/A0IDRcIA/wQ"/>
+<g u="113" x="0" y="4" w="6" d="BQUBRQNCA8L/AEQEQQ"/>
+<g u="114" x="0" y="4" w="6" d="BAXC/wBCAUICQgRBBA"/>
+<g u="115" x="1" y="4" w="6" d="BAQBRQRFAQ"/>
+<g u="116" x="1" y="5" w="6" d="BQTCAP8CQwJBA8P/AP8Cwv8A"/>
+<g u="117" x="0" y="4" w="6" d="BAVBA0IDQgJCAULCAP8"/>
+<g u="118" x="0" y="4" w="6" d="BAVBA0IDxf8A/wD/A0EC"/>
+<g u="119" x="0" y="4" w="6" d="BAXE/wD/AELDAP8AQskA/wD/AP8A/wA"/>
+<g u="120" x="0" y="4" w="6" d="BAVCAUICQQRBAkIBQg"/>
+<g u="121" x="0" y="4" w="6" d="BQVBA0IDwv8ARARFAQ"/>
+<g u="122" x="1" y="4" w="6" d="BAREAkECQQJE"/>
+<g u="123" x="1" y="5" w="6" d="BQMBQsMA/wBCAkECQg"/>
+<g u="124" x="2" y="5" w="6" d="BQFF"/>
+<g u="125" x="1" y="5" w="6" d="BQNCAkECgv7DAP8AQgE"/>
+<g u="126" x="1" y="3" w="6" d="AgTDAP8AQsMA/wA"/>
+<g u="127" x="0" y="5" w="6" d="BQUCQQPF/wD/AP8DQgNG"/>
+</kbits>
