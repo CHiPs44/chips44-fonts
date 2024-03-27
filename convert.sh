@@ -16,7 +16,11 @@ for KBITX in source/*.kbitx; do
     else
         java -jar ${JAR} convertbitmap -f fontx2 -o ${FONTX2} ${KBITX}
     fi
-    xxd -i -c 16 ${FONTX2} | sed "s/_fnt\[\]/\[\]/g" | sed "s/_fnt_len\[\]/_len\[\]/g" > ${HEADER}
+    xxd -i -c 16 ${FONTX2} | \
+        sed "s/ fontx2_/ /g" | \
+        sed "s/_fnt\[\]/\[\]/g" | \
+        sed "s/_fnt_len\[\]/_len\[\]/g" \
+    > ${HEADER}
 done
 
 # EOF
