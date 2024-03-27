@@ -48,6 +48,54 @@ java -jar ~/bin/BitsNPicas.jar convertbitmap -f fontx2 -ee UTF-16 -o fontx2/chip
 
 ## License
 
-`kbitx` files in the `source` directory are licensed under the [SIL Open Font License](https://openfontlicense.org/), version 1.1 or later; see file LICENSE-OFL-1.1.
+`kbitx` files in the `source` directory are licensed under the [SIL Open Font License](https://openfontlicense.org/), version 1.1 or later; see file <LICENSE-OFL-1.1>.
 
-Other work like converting these `kbitx` files to FONTX2 and headers files are licensed under the MIT license, see file LICENSE-MIT.
+Other work like converting these `kbitx` files to FONTX2 and headers files are licensed under the MIT license, see file <LICENSE-MIT>.
+
+## Sample texts
+
+### English
+
+```text
+```
+
+### French
+
+```text
+Portez ce vieux whisky au juge blond qui fume sur son île intérieure, 
+à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, 
+ce qui lui permet de penser à la caenogénèse de l'être dont il est question 
+dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, 
+pense-t-il, diminue çà et là la qualité de son œuvre.
+```
+
+### Box drawing / graphics
+
+```text
+1234567890123456789012345678901234567890
+┏━━┳━━━━━━━━┳━━━━━━━━┳━━━━━━━━┳━━━━━━━━┓01
+┃LV┃Arndhor ┃Whurdrar┃Elanthir┃Andedas ┃02
+┃05┃♥078/096┃♥025/032┃♥042/042┃♥054/068┃03
+┣━━┻━━━━━━━━┻━━━━━━━━┻━━━━━━┳━┻━━━━━━━━┫04
+┃▒▒▒▒┃▒▒▒▒▒┃▒▒▒▒▒░▒▒▒▒▒▒▒▒▒▒┃Barbarian ┃05
+┃▒*▒▒░▒▒▒▒▒░▒▒▒▒▒┃▒▒▒▒▒▒▒▒▒▒┃Level   03┃06
+┃▒▒▒▒┣━━━━━┫▒▒▒▒▒┗━━━━━━░━━━┫STR:  18+3┃07
+┣━░━━┫▒▒▒▒▒┃▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒┃INT:  11+0┃08
+┃▒▒▒▒░▒▒▒▒▒┣━░━━━━━━━━━━░━━━┫WIS:  13+1┃09
+┣━━░━┻━┳━░━┛▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒┃DEX:  16+2┃10
+┃▒▒▒▒▒▒░▒▒▒▒▒▒▒┏━━░━━━━━┳━░━┃CON:  13+1┃11
+┃▒▒▒▒▒▒┣━━┳━░━━┫▒▒▒▒▒▒▒▒┃▒▒▒┃CHA:  08-1┃12
+┃▒▒▒▒▒▒░▒▒░▒▒▒▒┃▒▒▒▒▒▒▒▒░▒▒▒┃ATT:    16┃13
+┃▒▒▒▒▒▒┃▒▒┃▒▒▒▒░▒▒▒▒▒▒▒▒┃▒▒▒┃DM: 1d12+3┃14
+┣━━░━━━╋━━┻━━░━╋━━━━░━━━╋━━░┃AC:     15┃15
+┃▒▒▒▒▒▒┃▒▒▒▒▒▒▒┃▒▒▒▒▒▒▒▒┃▒▒▒┃XP: 004164┃16
+┃▒▒▒▒▒▒░▒▒▒▒▒▒▒░▒▒▒▒▒▒▒▒┃▒▒▒┣━━━━━━━━━━┫17
+┣━━░━━━╋━━░━━━━┫▒▒▒▒▒▒▒▒░▒▒▒┃Sword 2H..┃18
+┃▒▒▒▒▒▒░▒▒▒▒▒▒▒░▒▒▒▒▒▒▒▒┃▒▒▒┃Plate.....┃19
+┣━━━━━━━━━━━━━━━━━━━━━━━┻━━━┃Helmet....┃20
+┃You enter the caves of     ┃..........┃21
+┃Zinagan.                   ┃..........┃22
+┃                           ┃..........┃23
+┃                           ┃..........┃24
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━┛25
+```

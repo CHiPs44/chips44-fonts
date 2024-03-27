@@ -1,0 +1,20 @@
+JAR:=~/bin/BitsNPicas.jar
+
+SOURCES_UNICODE:=$(wildcard source/*unicode*.kbitx)
+SOURCES_OTHERS:=$(wildcard source/*.kbitx)
+SOURCES_OTHERS:=$(filter-out unicode, $(SRC_FILES))
+
+header: 
+	# 
+
+fontx2_unicode: $(SOURCES_UNICODE)
+	BASENAME:=$(basename -s ".kbitx" $?)
+	FONTX2:="fontx2/$(BASENAME).fnt"
+	echo rm -f $(FONTX2)
+	echo java -jar $(JAR) convertbitmap -f fontx2 -ee UTF-16 -o $(FONTX2) $?
+
+fontx2_others: $(SOURCES_UNICODE)
+	BASENAME:=$(basename -s ".kbitx" $?)
+	FONTX2:="fontx2/$(BASENAME).fnt"
+	echo rm -f $(FONTX2)
+	echo java -jar $(JAR) convertbitmap -f fontx2 -o $(FONTX2) $?
